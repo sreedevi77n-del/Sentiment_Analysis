@@ -100,7 +100,7 @@ sentiment_analysis/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sentiment_analysis.git
+https://github.com/sreedevi77n-del/Sentiment_Analysis
 ```
 
 Navigate to the project directory:
